@@ -6,5 +6,4 @@ In this case I identified the user and system requirements to desgin a database 
 
 Developed a relational database system according to the ER diagram thatcreated (Used SQL DDL statements) and created a simple interface to insert, update and delete data in the database. Implemented proper security mechanisms in the developed database.
 
-Evaluated the database solution developed and its effectiveness with relevant to the user and system requirements identified, system security mechanisms (EX: -User groups, access permissions) and the maintenance of the database. 
 
